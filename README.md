@@ -25,9 +25,8 @@ Due to some stochastic factors(*e.g*., GPU and environment), it maybe need to sl
 
 ## Acknowledgement
 
-This code is based on the released code (https://github.com/yizhen20133868/CI-ToD) for "Don’t be Contradicted with Anything!CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System".
+This code is based on the released code (https://github.com/yizhen20133868/CI-ToD) for "Don’t be Contradicted with Anything!CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System" ***EMNLP2021***.[[PDF]](https://arxiv.org/pdf/2109.11292.pdf) .
 
-For the pre-trained language model, we use huggingface's Transformer (https://huggingface.co/transformers/index.html#), which distributed under Apache License Version 2.0. 
-Copyright 2018- The Hugging Face team. All rights reserved.
+For the pre-trained language model, we use huggingface's Transformer (https://huggingface.co/transformers).
 
 We are grateful for their excellent works.
