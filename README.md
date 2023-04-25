@@ -16,6 +16,8 @@ The  packages we used are listed follow:
 
 ## How to Run it
 
+Before running the code, please unzip the **transformers.zip** file. The model's Adapter module and fusion layer are in **modeling_bert.py**
+
 The script **train.py** acts as a main function to the project, you can run the experiments by the following commands:
 
 ```
